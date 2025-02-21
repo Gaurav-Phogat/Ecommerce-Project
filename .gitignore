@@ -8,6 +8,7 @@
 # Local History for Visual Studio Code
 .history/
 
+
 # Common credential files
 **/credentials.json
 **/client_secrets.json
@@ -16,6 +17,8 @@
 *.dat
 *password*
 *.httr-oauth*
+*.properties
+application.properties
 
 # Private Node Modules
 node_modules/
